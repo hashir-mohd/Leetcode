@@ -1,41 +1,27 @@
 class Solution {
 public:
-    bool isVowel(char c) {
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
-    }
-
     vector<int> vowelStrings(vector<string>& words,
                              vector<vector<int>>& queries) {
-        vector<int> arr;
-        
-        int count = 0;
-        for (auto str : words) {
-            char firstChar = str.front();
-            char lastChar = str.back();
-            if (isVowel(firstChar) && isVowel(lastChar)) {
-                count++;
+        vector<int> ans(queries.size());
+        unordered_set<char> vowels{'a', 'e', 'i', 'o', 'u'};
+        vector<int> prefixSum(words.size());
+        int sum = 0;
+        for (int i = 0; i < words.size(); i++) {
+            string currentWord = words[i];
+            if (vowels.count(currentWord[0]) &&
+                vowels.count(currentWord[currentWord.size() - 1])) {
+                sum++;
             }
-            arr.push_back(count);
+            prefixSum[i] = sum;
         }
-        
-        for(int i = 0; i< arr.size(); i++){
-            cout << arr[i] <<" ";
-        }
-        vector<int> res;
-        for(auto &query : queries){
-            int startIndex= query[0];
-            int endIndex = query[1];
-            int a=0;
-            if(startIndex==0){
-                a=arr[startIndex];
-            }
-            else{
-                a=arr[startIndex]-arr[startIndex-1];
-            }
-            res.push_back(arr[endIndex]-arr[startIndex]+a);
-            
 
+        for (int i = 0; i < queries.size(); i++) {
+            vector<int> currentQuery = queries[i];
+            ans[i] =
+                prefixSum[currentQuery[1]] -
+                (currentQuery[0] == 0 ? 0 : prefixSum[currentQuery[0] - 1]);
         }
-        return res;
+
+        return ans;
     }
 };
