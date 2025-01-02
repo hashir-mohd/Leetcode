@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [1025-minimum-cost-for-tickets](https://github.com/hashir-mohd/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/hashir-mohd/Leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
