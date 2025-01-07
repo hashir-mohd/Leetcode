@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hashir-mohd/Leetcode/tree/master/0007-reverse-integer) |
+| [0263-ugly-number](https://github.com/hashir-mohd/Leetcode/tree/master/0263-ugly-number) |
 ## Binary Search
 |  |
 | ------- |
