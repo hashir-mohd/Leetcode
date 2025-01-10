@@ -23,6 +23,7 @@ public:
             for(auto& pair:freq){
                 if(maxFreq[pair.first]>pair.second){
                     flag=false;
+                    break;
                 }
             }
             if(flag){
