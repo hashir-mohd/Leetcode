@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0952-word-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -46,6 +47,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1025-minimum-cost-for-tickets](https://github.com/hashir-mohd/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 ## Math
 |  |
@@ -59,6 +61,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hashir-mohd/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -114,5 +117,6 @@
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hashir-mohd/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 <!---LeetCode Topics End-->
