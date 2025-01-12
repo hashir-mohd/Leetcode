@@ -1,24 +1,29 @@
 class Solution {
 public:
     bool canBeValid(string s, string locked) {
-        int min =0, max =0;
         if(s.size()%2 ==1) return false;
-        for(int i =0 ; i < s.size(); i++){
-            if(s[i]=='(' && locked[i]=='1'){
-                min++;
-                max++;
+        int open=0;
+        int close=0;
+        for(int i =0 ;i <s.size(); i++){
+            if(s[i]=='(' || locked[i]=='0'){
+                open++;
+            }else{
+                open--;
             }
-            else if(s[i]==')' && locked[i]=='1'){
-                min--;
-                max--;
+            if(open<0){
+                return false;
             }
-            else{
-                min--;
-                max++;
-            }
-            if(min<0) min=0;
-            if(max<0) return false;
         }
-        return (min==0);
+        for(int i =s.size()-1 ;i >=0; i--){
+            if(s[i]==')' || locked[i]=='0'){
+                close++;
+            }else{
+                close--;
+            }
+            if(close<0){
+                return false;
+            }
+        }
+        return true;
     }
 };
