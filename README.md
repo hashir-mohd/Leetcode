@@ -87,6 +87,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/hashir-mohd/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hashir-mohd/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0229-majority-element-ii) |
 | [0952-word-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0952-word-subsets) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/hashir-mohd/Leetcode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/hashir-mohd/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hashir-mohd/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/hashir-mohd/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/hashir-mohd/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
