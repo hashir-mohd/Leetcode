@@ -56,6 +56,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hashir-mohd/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/hashir-mohd/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hashir-mohd/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
@@ -89,6 +90,7 @@
 | [0015-3sum](https://github.com/hashir-mohd/Leetcode/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0229-majority-element-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
