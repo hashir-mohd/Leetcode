@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hashir-mohd/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0229-majority-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/hashir-mohd/Leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -65,6 +66,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/hashir-mohd/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/hashir-mohd/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/hashir-mohd/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/hashir-mohd/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/hashir-mohd/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/hashir-mohd/Leetcode/tree/master/0283-move-zeroes) |
@@ -153,6 +156,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/hashir-mohd/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hashir-mohd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -218,6 +222,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/hashir-mohd/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hashir-mohd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0503-next-greater-element-ii) |
