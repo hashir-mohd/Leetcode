@@ -51,6 +51,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hashir-mohd/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2145-grid-game](https://github.com/hashir-mohd/Leetcode/tree/master/2145-grid-game) |
+| [2227-sum-of-subarray-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hashir-mohd/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/hashir-mohd/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/hashir-mohd/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -159,6 +160,7 @@
 | [0735-asteroid-collision](https://github.com/hashir-mohd/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/hashir-mohd/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hashir-mohd/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2227-sum-of-subarray-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [0496-next-greater-element-i](https://github.com/hashir-mohd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/hashir-mohd/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
