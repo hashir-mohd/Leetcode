@@ -35,6 +35,7 @@
 | ------- |
 | [0015-3sum](https://github.com/hashir-mohd/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hashir-mohd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0229-majority-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/hashir-mohd/Leetcode/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -157,6 +158,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hashir-mohd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/hashir-mohd/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hashir-mohd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/hashir-mohd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/hashir-mohd/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/hashir-mohd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0503-next-greater-element-ii) |
