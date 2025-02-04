@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hashir-mohd/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/hashir-mohd/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/hashir-mohd/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/hashir-mohd/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/hashir-mohd/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/hashir-mohd/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -310,4 +312,8 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/hashir-mohd/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
