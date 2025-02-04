@@ -83,6 +83,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/hashir-mohd/Leetcode/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/hashir-mohd/Leetcode/tree/master/0263-ugly-number) |
+| [2050-count-good-numbers](https://github.com/hashir-mohd/Leetcode/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -204,6 +205,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/hashir-mohd/Leetcode/tree/master/0206-reverse-linked-list) |
+| [2050-count-good-numbers](https://github.com/hashir-mohd/Leetcode/tree/master/2050-count-good-numbers) |
 ## Brainteaser
 |  |
 | ------- |
