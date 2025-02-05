@@ -39,6 +39,7 @@
 | [0015-3sum](https://github.com/hashir-mohd/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/hashir-mohd/Leetcode/tree/master/0056-merge-intervals) |
+| [0078-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hashir-mohd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0229-majority-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hashir-mohd/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -148,6 +149,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0078-subsets) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hashir-mohd/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/hashir-mohd/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hashir-mohd/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -316,4 +318,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hashir-mohd/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
