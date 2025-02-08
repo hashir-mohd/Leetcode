@@ -228,6 +228,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0101-symmetric-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -264,6 +265,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hashir-mohd/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hashir-mohd/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hashir-mohd/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -320,6 +322,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hashir-mohd/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hashir-mohd/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hashir-mohd/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -334,6 +337,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hashir-mohd/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hashir-mohd/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/hashir-mohd/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
