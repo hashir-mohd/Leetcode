@@ -21,8 +21,9 @@ class Solution {
 public:
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
         int n = image.size();
+        int m = image[0].size();
         int original=image[sr][sc];
-        vector<vector<int>> visited(n+1, vector<int>(n+1, 0));
+        vector<vector<int>> visited(n, vector<int>(m, 0));
 
         traversal(sr,sc,visited,image,color,original);
 
