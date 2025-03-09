@@ -10,12 +10,16 @@ class Solution {
                 return true;
             }
             else if(!visited[neighbour]){
+                visited[neighbour]=1;
+                path[neighbour]=1;
                 if(dfs(neighbour,adj,visited,path)){
                     return true;
                 }
+                path[neighbour]=0;
+                
             }
         }
-        path[node]=0;
+        
         return false;
     }
 public:
@@ -32,9 +36,11 @@ public:
 
         for(int i=0;i<numCourses;i++){
             if(!visited[i]){
+                visited[i]=1;
                 if(dfs(i,adj,visited,path)){
                     return false;
                 }
+                path[i]=0;
             }
         }
         return true;
