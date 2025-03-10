@@ -7,15 +7,12 @@ class Solution {
         for(auto &neighbour:adj[node]){
             if(!visited[neighbour]){
                 if(dfs(adj,neighbour,visited,path,loopNodes)){
+                    loopNodes[node] = 1;
                     return true;
                 }
             }
             else if(path[neighbour]){
-                for(int i= 0;i<n;i++){
-                    if(path[i]==1){
-                        loopNodes[i]=1;
-                    }
-                }
+                loopNodes[node] = 1;
                 return true;
             }
         }
