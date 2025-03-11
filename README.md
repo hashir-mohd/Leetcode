@@ -255,6 +255,7 @@
 | [0542-01-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/hashir-mohd/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hashir-mohd/Leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/hashir-mohd/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/hashir-mohd/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hashir-mohd/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hashir-mohd/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -269,6 +270,7 @@
 | [0207-course-schedule](https://github.com/hashir-mohd/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/hashir-mohd/Leetcode/tree/master/0547-number-of-provinces) |
+| [0744-network-delay-time](https://github.com/hashir-mohd/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/hashir-mohd/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hashir-mohd/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hashir-mohd/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -282,6 +284,7 @@
 | [0295-find-median-from-data-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0621-task-scheduler](https://github.com/hashir-mohd/Leetcode/tree/master/0621-task-scheduler) |
+| [0744-network-delay-time](https://github.com/hashir-mohd/Leetcode/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hashir-mohd/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -303,6 +306,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/hashir-mohd/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hashir-mohd/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -323,6 +327,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/hashir-mohd/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/hashir-mohd/Leetcode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/hashir-mohd/Leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/hashir-mohd/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hashir-mohd/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hashir-mohd/Leetcode/tree/master/0820-find-eventual-safe-states) |
