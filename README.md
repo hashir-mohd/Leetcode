@@ -64,6 +64,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/hashir-mohd/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hashir-mohd/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1073-number-of-enclaves](https://github.com/hashir-mohd/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -256,6 +257,7 @@
 | [0801-is-graph-bipartite](https://github.com/hashir-mohd/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/hashir-mohd/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/hashir-mohd/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/hashir-mohd/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -288,6 +290,7 @@
 | [0542-01-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/hashir-mohd/Leetcode/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/hashir-mohd/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/hashir-mohd/Leetcode/tree/master/1876-map-of-highest-peak) |
