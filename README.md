@@ -95,6 +95,7 @@
 | [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/hashir-mohd/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/hashir-mohd/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 | [0801-is-graph-bipartite](https://github.com/hashir-mohd/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/hashir-mohd/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -416,4 +419,5 @@
 | [0207-course-schedule](https://github.com/hashir-mohd/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/hashir-mohd/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
