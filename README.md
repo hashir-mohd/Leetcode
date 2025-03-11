@@ -12,6 +12,7 @@
 | [0402-remove-k-digits](https://github.com/hashir-mohd/Leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0952-word-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0952-word-subsets) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/hashir-mohd/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hashir-mohd/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -126,6 +127,7 @@
 | [0076-minimum-window-substring](https://github.com/hashir-mohd/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/hashir-mohd/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hashir-mohd/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/hashir-mohd/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hashir-mohd/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3483-alternating-groups-ii) |
@@ -162,6 +164,7 @@
 | [0621-task-scheduler](https://github.com/hashir-mohd/Leetcode/tree/master/0621-task-scheduler) |
 | [0952-word-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0952-word-subsets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hashir-mohd/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/hashir-mohd/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hashir-mohd/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hashir-mohd/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
