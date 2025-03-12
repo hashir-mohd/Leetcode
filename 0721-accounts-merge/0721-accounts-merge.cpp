@@ -55,7 +55,7 @@ public:
     vector<vector<string>> accountsMerge(vector<vector<string>>& details) {
         int n = details.size();
         DisjointSet ds(n);
-        sort(details.begin(), details.end());
+        // sort(details.begin(), details.end());
         unordered_map<string, int> mapMailNode;
         for (int i = 0; i < n; i++) {
             for (int j = 1; j < details[i].size(); j++) {
@@ -64,7 +64,8 @@ public:
                     mapMailNode[mail] = i;
                 }
                 else {
-                    ds.unionBySize(i, mapMailNode[mail]);
+                    ds.unionBySize( mapMailNode[mail],i);
+                    cout<< ds.findUPar(i);
                 }
             }
         }
