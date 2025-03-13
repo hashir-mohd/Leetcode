@@ -3,15 +3,15 @@ class Solution {
         int n = nums.size();
         vector<int> diff(n + 1, 0);
 
-        // Apply first k queries using the difference array
+        
         for (int i = 0; i < k; i++) {
             int l = queries[i][0];
             int r = queries[i][1];
             int val = queries[i][2];
 
-            diff[l] -= val;  // Decrease the values in the range
+            diff[l] += val; 
             if (r + 1 < n) {
-                diff[r + 1] += val;  // Restore value after range
+                diff[r + 1] -= val;  // Restore value after range
             }
         }
 
@@ -21,7 +21,7 @@ class Solution {
 
         for (int i = 0; i < n; i++) {
             running_sum += diff[i];
-            modified[i] += running_sum;
+            modified[i] -= running_sum;
         }
 
         // Check if the entire array is ≤ 0
