@@ -38,6 +38,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/hashir-mohd/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/hashir-mohd/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3643-zero-array-transformation-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Array
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/hashir-mohd/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hashir-mohd/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 ## Dynamic Programming
 |  |
@@ -117,6 +119,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/hashir-mohd/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3643-zero-array-transformation-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
 | ------- |
