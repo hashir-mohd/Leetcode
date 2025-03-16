@@ -85,6 +85,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/hashir-mohd/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/hashir-mohd/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hashir-mohd/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2665-minimum-time-to-repair-cars](https://github.com/hashir-mohd/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hashir-mohd/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/hashir-mohd/Leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -123,6 +124,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/hashir-mohd/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hashir-mohd/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2665-minimum-time-to-repair-cars](https://github.com/hashir-mohd/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/hashir-mohd/Leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hashir-mohd/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
