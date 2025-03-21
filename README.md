@@ -20,6 +20,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hashir-mohd/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hashir-mohd/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hashir-mohd/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hashir-mohd/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hashir-mohd/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hashir-mohd/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/hashir-mohd/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -81,6 +82,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hashir-mohd/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2145-grid-game](https://github.com/hashir-mohd/Leetcode/tree/master/2145-grid-game) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hashir-mohd/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2227-sum-of-subarray-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hashir-mohd/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -196,6 +198,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hashir-mohd/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hashir-mohd/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hashir-mohd/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hashir-mohd/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hashir-mohd/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -322,6 +325,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hashir-mohd/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hashir-mohd/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 |  |
@@ -488,6 +492,7 @@
 | [0210-course-schedule-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/hashir-mohd/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hashir-mohd/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Segment Tree
 |  |
 | ------- |
