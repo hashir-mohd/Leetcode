@@ -10,8 +10,8 @@ public:
             adj[node2].push_back({node1, time});
         }
 
-        priority_queue<pair<int, int>, vector<pair<int , int>>, greater<pair<int , int>>> pq;
-        vector<int > dist(n, INT_MAX);
+        priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
+        vector<long long> dist(n, LLONG_MAX);
         vector<int> ways(n, 0);
 
         int mod = 1e9 + 7;
@@ -20,7 +20,7 @@ public:
         pq.push({0, 0});  // {dist, node}
 
         while (!pq.empty()) {
-            int dis = pq.top().first;
+            long long dis = pq.top().first;
             int node = pq.top().second;
             pq.pop();
 
@@ -29,11 +29,11 @@ public:
                 int edgeWeight = neighbour.second;
 
                 // Avoid overflow using explicit long long conversion
-                if ((dis + edgeWeight)%mod < dist[adjNode]%mod) {
-                    dist[adjNode] = dis +edgeWeight;
+                if (dis + (long long)edgeWeight < dist[adjNode]) {
+                    dist[adjNode] = dis + (long long)edgeWeight;
                     pq.push({dist[adjNode], adjNode});
                     ways[adjNode] = ways[node];  // Start fresh path count
-                } else if ((dis + edgeWeight)%mod == dist[adjNode]%mod) {
+                } else if (dis + (long long)edgeWeight == dist[adjNode]) {
                     ways[adjNode] = (ways[adjNode] + ways[node]) % mod;
                 }
             }
