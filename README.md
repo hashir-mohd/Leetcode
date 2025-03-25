@@ -106,6 +106,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hashir-mohd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hashir-mohd/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3791-fruits-into-baskets-iii](https://github.com/hashir-mohd/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hashir-mohd/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -173,6 +174,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/hashir-mohd/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hashir-mohd/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Two Pointers
 |  |
 | ------- |
