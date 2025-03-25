@@ -8,6 +8,7 @@ class Solution {
             int end=interval[i].second;
             if(start>=curr){
                 cuts++;
+                if(cuts>=2)return true;
             }
             curr=max(end,curr);
         }
