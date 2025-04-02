@@ -101,6 +101,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/hashir-mohd/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hashir-mohd/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/hashir-mohd/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/hashir-mohd/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hashir-mohd/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
