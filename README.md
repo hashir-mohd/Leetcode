@@ -115,6 +115,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hashir-mohd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hashir-mohd/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hashir-mohd/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3791-fruits-into-baskets-iii](https://github.com/hashir-mohd/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -233,6 +234,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/hashir-mohd/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hashir-mohd/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hashir-mohd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hashir-mohd/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Bit Manipulation
 |  |
 | ------- |
