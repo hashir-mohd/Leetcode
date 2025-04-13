@@ -1,26 +1,25 @@
 class Solution {
 public:
-    const int MOD = 1e9 + 7;
-
-    // STL-based Modular Exponentiation using iterative approach
-    long long modPow(long long base, long long exp, long long mod) {
-        long long result = 1;
-        while (exp > 0) {
-            if (exp % 2 == 1) { // If exponent is odd, multiply base with result
-                result = (result * base) % mod;
-            }
-            base = (base * base) % mod; // Square the base
-            exp /= 2; // Reduce exponent by half
-        }
-        return result;
-    }
+    int mod=1e9+7;
 
     int countGoodNumbers(long long n) {
-        long long even_digits = (n + 1) / 2;
-        long long odd_digits = n / 2;
+        int  output=0;
+        long long evens=(n+1)/2;
+        long long odds= n/2;
+        output=(power(5,evens)*power(4,odds))%mod;
+        return output;
 
-        // Using STL modular exponentiation
-        long long res = (modPow(5, even_digits, MOD) * modPow(4, odd_digits, MOD)) % MOD;
+    }
+
+    long long power(long long base, long long exp){
+        long long res=1;
+        while(exp>0){
+            if(exp%2==1){
+                res=(res*base)%mod;
+            }
+            base=(base*base)%mod;
+            exp/=2;
+        }
         return res;
     }
 };
