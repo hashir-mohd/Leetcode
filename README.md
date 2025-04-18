@@ -7,6 +7,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hashir-mohd/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/hashir-mohd/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/hashir-mohd/Leetcode/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/hashir-mohd/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/hashir-mohd/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
