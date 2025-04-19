@@ -104,6 +104,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/hashir-mohd/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/hashir-mohd/Leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hashir-mohd/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/hashir-mohd/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hashir-mohd/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -161,6 +162,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hashir-mohd/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/hashir-mohd/Leetcode/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/hashir-mohd/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
@@ -200,6 +202,7 @@
 | [0721-accounts-merge](https://github.com/hashir-mohd/Leetcode/tree/master/0721-accounts-merge) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hashir-mohd/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hashir-mohd/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3001-apply-operations-to-maximize-score](https://github.com/hashir-mohd/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -214,6 +217,7 @@
 | [0141-linked-list-cycle](https://github.com/hashir-mohd/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/hashir-mohd/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
