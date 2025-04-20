@@ -71,6 +71,7 @@
 | [0721-accounts-merge](https://github.com/hashir-mohd/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/hashir-mohd/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/hashir-mohd/Leetcode/tree/master/0735-asteroid-collision) |
+| [0797-rabbits-in-forest](https://github.com/hashir-mohd/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0943-sum-of-subarray-minimums](https://github.com/hashir-mohd/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/hashir-mohd/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -148,6 +149,7 @@
 | [0007-reverse-integer](https://github.com/hashir-mohd/Leetcode/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/hashir-mohd/Leetcode/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/hashir-mohd/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0797-rabbits-in-forest](https://github.com/hashir-mohd/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/hashir-mohd/Leetcode/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hashir-mohd/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -171,6 +173,7 @@
 | [0402-remove-k-digits](https://github.com/hashir-mohd/Leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/hashir-mohd/Leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0797-rabbits-in-forest](https://github.com/hashir-mohd/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hashir-mohd/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -233,6 +236,7 @@
 | [0496-next-greater-element-i](https://github.com/hashir-mohd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/hashir-mohd/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/hashir-mohd/Leetcode/tree/master/0721-accounts-merge) |
+| [0797-rabbits-in-forest](https://github.com/hashir-mohd/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0952-word-subsets) |
 | [1034-subarrays-with-k-different-integers](https://github.com/hashir-mohd/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hashir-mohd/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
