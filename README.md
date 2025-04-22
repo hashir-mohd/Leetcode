@@ -147,6 +147,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hashir-mohd/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hashir-mohd/Leetcode/tree/master/0007-reverse-integer) |
 | [0263-ugly-number](https://github.com/hashir-mohd/Leetcode/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/hashir-mohd/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -325,6 +326,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hashir-mohd/Leetcode/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/hashir-mohd/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/hashir-mohd/Leetcode/tree/master/0061-rotate-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/hashir-mohd/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -335,6 +337,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/hashir-mohd/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/hashir-mohd/Leetcode/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/hashir-mohd/Leetcode/tree/master/2050-count-good-numbers) |
 ## Brainteaser
