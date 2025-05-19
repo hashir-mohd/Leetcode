@@ -188,6 +188,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hashir-mohd/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/hashir-mohd/Leetcode/tree/master/2509-minimize-xor) |
 | [3001-apply-operations-to-maximize-score](https://github.com/hashir-mohd/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Sliding Window
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/hashir-mohd/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hashir-mohd/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Two Pointers
 |  |
 | ------- |
@@ -400,6 +402,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hashir-mohd/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/hashir-mohd/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -463,6 +466,7 @@
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hashir-mohd/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2793-count-the-number-of-complete-components](https://github.com/hashir-mohd/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Union Find
 |  |
 | ------- |
