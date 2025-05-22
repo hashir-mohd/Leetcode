@@ -133,6 +133,7 @@
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3791-fruits-into-baskets-iii](https://github.com/hashir-mohd/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hashir-mohd/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3822-fill-a-special-grid](https://github.com/hashir-mohd/Leetcode/tree/master/3822-fill-a-special-grid) |
 | [3849-equal-sum-grid-partition-i](https://github.com/hashir-mohd/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Dynamic Programming
 |  |
@@ -431,6 +432,7 @@
 | [2145-grid-game](https://github.com/hashir-mohd/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hashir-mohd/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/hashir-mohd/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3822-fill-a-special-grid](https://github.com/hashir-mohd/Leetcode/tree/master/3822-fill-a-special-grid) |
 | [3849-equal-sum-grid-partition-i](https://github.com/hashir-mohd/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Shortest Path
 |  |
@@ -522,6 +524,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hashir-mohd/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [3822-fill-a-special-grid](https://github.com/hashir-mohd/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Merge Sort
 |  |
 | ------- |
