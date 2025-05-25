@@ -159,6 +159,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/hashir-mohd/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/hashir-mohd/Leetcode/tree/master/0007-reverse-integer) |
+| [0089-gray-code](https://github.com/hashir-mohd/Leetcode/tree/master/0089-gray-code) |
 | [0263-ugly-number](https://github.com/hashir-mohd/Leetcode/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/hashir-mohd/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/hashir-mohd/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -286,6 +287,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/hashir-mohd/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/hashir-mohd/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0222-count-complete-tree-nodes](https://github.com/hashir-mohd/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -585,6 +587,7 @@
 | [0039-combination-sum](https://github.com/hashir-mohd/Leetcode/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/hashir-mohd/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/hashir-mohd/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Topological Sort
