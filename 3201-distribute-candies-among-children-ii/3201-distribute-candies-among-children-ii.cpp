@@ -1,12 +1,11 @@
 class Solution {
 public:
     long long distributeCandies(int n, int limit) {
-        long long ans = 0;
-        for (int i = 0; i <= min(limit, n); i++) {
-            if (n - i > 2 * limit) {
-                continue;
-            }
-            ans += min(n - i, limit) - max(0, n - i - limit) + 1;
+        long long ans=0;
+        for(int i =0 ;i <=min(n,limit); i++){
+            int lower = max(0, n - i - limit);
+            int upper = min(limit, n - i);
+            ans += max(upper - lower + 1, 0);
         }
         return ans;
     }
