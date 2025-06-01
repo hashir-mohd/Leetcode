@@ -170,6 +170,7 @@
 | [2998-count-symmetric-integers](https://github.com/hashir-mohd/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/hashir-mohd/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3199-distribute-candies-among-children-i](https://github.com/hashir-mohd/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/hashir-mohd/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Binary Search
 |  |
@@ -616,6 +617,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3199-distribute-candies-among-children-i](https://github.com/hashir-mohd/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/hashir-mohd/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Enumeration
 |  |
@@ -624,6 +626,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/hashir-mohd/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/hashir-mohd/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
+| [3201-distribute-candies-among-children-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/hashir-mohd/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/hashir-mohd/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
