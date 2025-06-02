@@ -60,6 +60,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/hashir-mohd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/hashir-mohd/Leetcode/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/hashir-mohd/Leetcode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/hashir-mohd/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hashir-mohd/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -186,6 +187,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/hashir-mohd/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/hashir-mohd/Leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/hashir-mohd/Leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
