@@ -86,6 +86,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hashir-mohd/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hashir-mohd/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1656-count-good-triplets](https://github.com/hashir-mohd/Leetcode/tree/master/1656-count-good-triplets) |
@@ -401,6 +402,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hashir-mohd/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hashir-mohd/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hashir-mohd/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/hashir-mohd/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -415,6 +417,7 @@
 | [0801-is-graph-bipartite](https://github.com/hashir-mohd/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hashir-mohd/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hashir-mohd/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/hashir-mohd/Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hashir-mohd/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
