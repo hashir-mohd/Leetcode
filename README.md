@@ -141,6 +141,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hashir-mohd/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3822-fill-a-special-grid](https://github.com/hashir-mohd/Leetcode/tree/master/3822-fill-a-special-grid) |
 | [3849-equal-sum-grid-partition-i](https://github.com/hashir-mohd/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3878-maximize-count-of-distinct-primes-after-split](https://github.com/hashir-mohd/Leetcode/tree/master/3878-maximize-count-of-distinct-primes-after-split) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [3199-distribute-candies-among-children-i](https://github.com/hashir-mohd/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/hashir-mohd/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3878-maximize-count-of-distinct-primes-after-split](https://github.com/hashir-mohd/Leetcode/tree/master/3878-maximize-count-of-distinct-primes-after-split) |
 ## Binary Search
 |  |
 | ------- |
@@ -611,6 +613,7 @@
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/hashir-mohd/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3878-maximize-count-of-distinct-primes-after-split](https://github.com/hashir-mohd/Leetcode/tree/master/3878-maximize-count-of-distinct-primes-after-split) |
 ## Ordered Set
 |  |
 | ------- |
@@ -619,6 +622,7 @@
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/hashir-mohd/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3878-maximize-count-of-distinct-primes-after-split](https://github.com/hashir-mohd/Leetcode/tree/master/3878-maximize-count-of-distinct-primes-after-split) |
 ## Combinatorics
 |  |
 | ------- |
