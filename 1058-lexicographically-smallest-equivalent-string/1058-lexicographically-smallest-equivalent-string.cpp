@@ -3,9 +3,10 @@ class Solution {
 
     
     int find(int x) {
-        if (parent[x] != x)
-            parent[x] = find(parent[x]);
-        return parent[x];
+        if (parent[x] == x)
+            return parent[x];
+        return parent[x] = find(parent[x]);
+        
     }
 
     
