@@ -16,6 +16,7 @@
 | [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/hashir-mohd/Leetcode/tree/master/0721-accounts-merge) |
 | [0952-word-subsets](https://github.com/hashir-mohd/Leetcode/tree/master/0952-word-subsets) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/hashir-mohd/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/hashir-mohd/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/1524-string-matching-in-an-array) |
@@ -502,6 +503,7 @@
 | [0547-number-of-provinces](https://github.com/hashir-mohd/Leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/hashir-mohd/Leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/hashir-mohd/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/hashir-mohd/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/hashir-mohd/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hashir-mohd/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
