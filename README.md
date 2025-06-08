@@ -339,6 +339,7 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0386-lexicographical-numbers](https://github.com/hashir-mohd/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/hashir-mohd/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hashir-mohd/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -491,6 +492,7 @@
 | [0207-course-schedule](https://github.com/hashir-mohd/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/hashir-mohd/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/hashir-mohd/Leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/hashir-mohd/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/hashir-mohd/Leetcode/tree/master/0733-flood-fill) |
