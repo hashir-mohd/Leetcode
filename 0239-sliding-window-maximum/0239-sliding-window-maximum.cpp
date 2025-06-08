@@ -6,7 +6,7 @@ public:
 
         for (int i = 0; i < nums.size(); i++) {
             // Remove indices of elements that are out of the current window
-            if (!dq.empty() && dq.front() == i - k) {
+            if (!dq.empty() && dq.front() <= i - k) {
                 dq.pop_front();
             }
 
