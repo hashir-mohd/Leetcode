@@ -101,6 +101,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/hashir-mohd/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/hashir-mohd/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hashir-mohd/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hashir-mohd/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
