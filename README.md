@@ -35,6 +35,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/hashir-mohd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hashir-mohd/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hashir-mohd/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3893-generate-tag-for-video-caption](https://github.com/hashir-mohd/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -550,6 +551,7 @@
 | [0735-asteroid-collision](https://github.com/hashir-mohd/Leetcode/tree/master/0735-asteroid-collision) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hashir-mohd/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hashir-mohd/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3893-generate-tag-for-video-caption](https://github.com/hashir-mohd/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Queue
 |  |
 | ------- |
