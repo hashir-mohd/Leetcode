@@ -1,17 +1,22 @@
 class Solution {
 public:
     int partitionArray(vector<int>& nums, int k) {
-        int n = nums.size();
-        sort(nums.begin(),nums.end());
-        int subs=1;
-        int rec = nums[0];
-        for (int i = 0; i < nums.size(); i++) {
-            if (nums[i] - rec > k) {
-                subs++;
-                rec = nums[i];
+        int maxx = INT_MIN;
+        for (auto& it : nums) {
+            maxx = max(maxx, it);
+        }
+        vector<int> freq(maxx + 1);
+        for (auto& x : nums) {
+            freq[x]++;
+        }
+        int rec=-100005;
+        int ans=0;
+        for (int i = 0; i <= maxx; i++) {
+            if(freq[i]>0 && i-rec>k){
+                rec=i;
+                ans++;
             }
         }
-        return subs;
-
+        return ans;
     }
 };
