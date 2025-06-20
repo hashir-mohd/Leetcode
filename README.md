@@ -35,6 +35,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/hashir-mohd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hashir-mohd/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hashir-mohd/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hashir-mohd/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3893-generate-tag-for-video-caption](https://github.com/hashir-mohd/Leetcode/tree/master/3893-generate-tag-for-video-caption) |
 ## Prefix Sum
 |  |
@@ -188,6 +189,7 @@
 | [3199-distribute-candies-among-children-i](https://github.com/hashir-mohd/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/hashir-mohd/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hashir-mohd/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3878-maximize-count-of-distinct-primes-after-split](https://github.com/hashir-mohd/Leetcode/tree/master/3878-maximize-count-of-distinct-primes-after-split) |
 ## Binary Search
 |  |
@@ -318,6 +320,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hashir-mohd/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hashir-mohd/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hashir-mohd/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hashir-mohd/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -355,6 +358,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hashir-mohd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hashir-mohd/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hashir-mohd/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Trie
 |  |
 | ------- |
