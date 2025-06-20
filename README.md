@@ -152,6 +152,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/hashir-mohd/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3822-fill-a-special-grid](https://github.com/hashir-mohd/Leetcode/tree/master/3822-fill-a-special-grid) |
 | [3849-equal-sum-grid-partition-i](https://github.com/hashir-mohd/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3878-maximize-count-of-distinct-primes-after-split](https://github.com/hashir-mohd/Leetcode/tree/master/3878-maximize-count-of-distinct-primes-after-split) |
 ## Dynamic Programming
 |  |
@@ -225,6 +226,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/hashir-mohd/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hashir-mohd/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+| [3876-transform-array-to-all-equal-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 ## Sliding Window
 |  |
 | ------- |
