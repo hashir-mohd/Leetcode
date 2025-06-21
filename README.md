@@ -31,6 +31,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/hashir-mohd/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hashir-mohd/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/hashir-mohd/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hashir-mohd/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hashir-mohd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hashir-mohd/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -224,6 +225,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/hashir-mohd/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/hashir-mohd/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/hashir-mohd/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hashir-mohd/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -264,6 +266,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/hashir-mohd/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/hashir-mohd/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/hashir-mohd/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/hashir-mohd/Leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/hashir-mohd/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
@@ -315,6 +318,7 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hashir-mohd/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hashir-mohd/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/hashir-mohd/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hashir-mohd/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hashir-mohd/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hashir-mohd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -358,6 +362,7 @@
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/hashir-mohd/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/hashir-mohd/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/hashir-mohd/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hashir-mohd/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
