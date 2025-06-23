@@ -156,6 +156,7 @@
 | [3849-equal-sum-grid-partition-i](https://github.com/hashir-mohd/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
 | [3878-maximize-count-of-distinct-primes-after-split](https://github.com/hashir-mohd/Leetcode/tree/master/3878-maximize-count-of-distinct-primes-after-split) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/hashir-mohd/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/hashir-mohd/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/hashir-mohd/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Math
 |  |
 | ------- |
@@ -539,6 +541,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hashir-mohd/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2793-count-the-number-of-complete-components](https://github.com/hashir-mohd/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/hashir-mohd/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Union Find
 |  |
 | ------- |
@@ -616,6 +619,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hashir-mohd/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/hashir-mohd/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
