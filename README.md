@@ -114,6 +114,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hashir-mohd/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/hashir-mohd/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/hashir-mohd/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/hashir-mohd/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -284,6 +285,7 @@
 | [0141-linked-list-cycle](https://github.com/hashir-mohd/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/hashir-mohd/Leetcode/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/hashir-mohd/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3755-maximum-product-of-first-and-last-elements-of-a-subsequence](https://github.com/hashir-mohd/Leetcode/tree/master/3755-maximum-product-of-first-and-last-elements-of-a-subsequence) |
