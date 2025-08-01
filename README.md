@@ -69,6 +69,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/hashir-mohd/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/hashir-mohd/Leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/hashir-mohd/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/hashir-mohd/Leetcode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/hashir-mohd/Leetcode/tree/master/0200-number-of-islands) |
@@ -169,6 +170,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/hashir-mohd/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/hashir-mohd/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/hashir-mohd/Leetcode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/hashir-mohd/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/hashir-mohd/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/hashir-mohd/Leetcode/tree/master/0416-partition-equal-subset-sum) |
