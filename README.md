@@ -72,6 +72,7 @@
 | [0118-pascals-triangle](https://github.com/hashir-mohd/Leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/hashir-mohd/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/hashir-mohd/Leetcode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/hashir-mohd/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/hashir-mohd/Leetcode/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/hashir-mohd/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -269,6 +270,7 @@
 | [0015-3sum](https://github.com/hashir-mohd/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/hashir-mohd/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/hashir-mohd/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/hashir-mohd/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/hashir-mohd/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -316,6 +318,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/hashir-mohd/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/hashir-mohd/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/hashir-mohd/Leetcode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/hashir-mohd/Leetcode/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/hashir-mohd/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0229-majority-element-ii) |
@@ -383,6 +386,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/hashir-mohd/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/hashir-mohd/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/hashir-mohd/Leetcode/tree/master/0621-task-scheduler) |
@@ -631,6 +635,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/hashir-mohd/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/hashir-mohd/Leetcode/tree/master/0169-majority-element) |
 | [3822-fill-a-special-grid](https://github.com/hashir-mohd/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Merge Sort
 |  |
