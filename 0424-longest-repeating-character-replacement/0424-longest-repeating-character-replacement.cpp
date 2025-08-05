@@ -9,10 +9,11 @@ public:
                     count++;
                 }
                 while(count>k){
-                    ans=max(ans,j-i);
+                    
                     if(s[i]!=c) count--;
                     i++;
                 }
+                ans=max(ans,j-i+1);
                 j++;
             }
             ans=max(ans,j-i);
