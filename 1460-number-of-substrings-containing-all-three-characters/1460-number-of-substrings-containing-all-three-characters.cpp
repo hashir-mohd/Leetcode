@@ -1,17 +1,29 @@
 class Solution {
 public:
+    int atMostKDistinct(string& s, int k) {
+        int n = s.size();
+        int left = 0, res = 0;
+        unordered_map<char, int> freq;
+
+        for (int right = 0; right < n; ++right) {
+            freq[s[right]]++;
+
+            while (freq.size() > k) {
+                freq[s[left]]--;
+                if (freq[s[left]] == 0) freq.erase(s[left]);
+                left++;
+            }
+
+            res += (right - left + 1);
+        }
+
+        return res;
+    }
+
     int numberOfSubstrings(string s) {
         int n = s.size();
-        int count=0, l=0;
-        vector<int>lastSeen = {-1,-1,-1};
-        for(int r=0; r<n; r++){
-            lastSeen[s[r]-'a'] = r;
-            // if(lastSeen[0]!=-1 && lastSeen[1]!=-1 && lastSeen[2]!=-1){
-                int mini = min(lastSeen[0],min(lastSeen[1],lastSeen[2]));
-                count += 1+mini;
-            // }
-        }
-        return count;
-        
+        long long total = 1LL *n * (n + 1) / 2;
+        long long withoutAllThree = atMostKDistinct(s, 2);
+        return (int)(total - withoutAllThree);
     }
 };
