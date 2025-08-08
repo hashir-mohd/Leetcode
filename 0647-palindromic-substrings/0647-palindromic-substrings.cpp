@@ -11,6 +11,7 @@ private:
                 return true;
             }
         }
+        memo[i][j]=0;
         return false;
     }
 
