@@ -200,6 +200,7 @@
 | [0263-ugly-number](https://github.com/hashir-mohd/Leetcode/tree/master/0263-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/hashir-mohd/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/hashir-mohd/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/hashir-mohd/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1500-count-largest-group](https://github.com/hashir-mohd/Leetcode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hashir-mohd/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -236,6 +237,7 @@
 | [0621-task-scheduler](https://github.com/hashir-mohd/Leetcode/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0797-rabbits-in-forest](https://github.com/hashir-mohd/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/hashir-mohd/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hashir-mohd/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
