@@ -189,6 +189,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/hashir-mohd/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/hashir-mohd/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/hashir-mohd/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/hashir-mohd/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Math
