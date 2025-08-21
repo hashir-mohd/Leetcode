@@ -88,6 +88,7 @@
 | [0496-next-greater-element-i](https://github.com/hashir-mohd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/hashir-mohd/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/hashir-mohd/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/hashir-mohd/Leetcode/tree/master/0721-accounts-merge) |
@@ -546,6 +547,7 @@
 | [0200-number-of-islands](https://github.com/hashir-mohd/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/0542-01-matrix) |
+| [0566-reshape-the-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/hashir-mohd/Leetcode/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/hashir-mohd/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -624,6 +626,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/hashir-mohd/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/hashir-mohd/Leetcode/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/hashir-mohd/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hashir-mohd/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
