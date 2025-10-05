@@ -115,6 +115,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hashir-mohd/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2104-operations-on-tree](https://github.com/hashir-mohd/Leetcode/tree/master/2104-operations-on-tree) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/hashir-mohd/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hashir-mohd/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -360,6 +361,7 @@
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hashir-mohd/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2104-operations-on-tree](https://github.com/hashir-mohd/Leetcode/tree/master/2104-operations-on-tree) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hashir-mohd/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hashir-mohd/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -514,6 +516,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hashir-mohd/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/hashir-mohd/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/hashir-mohd/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2104-operations-on-tree](https://github.com/hashir-mohd/Leetcode/tree/master/2104-operations-on-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/hashir-mohd/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
 |  |
@@ -601,6 +604,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hashir-mohd/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/hashir-mohd/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hashir-mohd/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2104-operations-on-tree](https://github.com/hashir-mohd/Leetcode/tree/master/2104-operations-on-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/hashir-mohd/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/hashir-mohd/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
@@ -658,6 +662,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2104-operations-on-tree](https://github.com/hashir-mohd/Leetcode/tree/master/2104-operations-on-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -687,6 +692,7 @@
 | [0572-subtree-of-another-tree](https://github.com/hashir-mohd/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/hashir-mohd/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/hashir-mohd/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2104-operations-on-tree](https://github.com/hashir-mohd/Leetcode/tree/master/2104-operations-on-tree) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/hashir-mohd/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Binary Search Tree
 |  |
