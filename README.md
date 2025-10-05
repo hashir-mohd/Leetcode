@@ -116,6 +116,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/hashir-mohd/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hashir-mohd/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/hashir-mohd/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hashir-mohd/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -247,6 +248,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hashir-mohd/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/hashir-mohd/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hashir-mohd/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/hashir-mohd/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2509-minimize-xor](https://github.com/hashir-mohd/Leetcode/tree/master/2509-minimize-xor) |
@@ -297,6 +299,7 @@
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hashir-mohd/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/hashir-mohd/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hashir-mohd/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hashir-mohd/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/hashir-mohd/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -455,6 +458,7 @@
 | [0678-valid-parenthesis-string](https://github.com/hashir-mohd/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/hashir-mohd/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/hashir-mohd/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/hashir-mohd/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/hashir-mohd/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/hashir-mohd/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -624,6 +628,7 @@
 | [0496-next-greater-element-i](https://github.com/hashir-mohd/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/hashir-mohd/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [2123-the-number-of-weak-characters-in-the-game](https://github.com/hashir-mohd/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2227-sum-of-subarray-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3001-apply-operations-to-maximize-score](https://github.com/hashir-mohd/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Simulation
