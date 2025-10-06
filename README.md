@@ -33,6 +33,7 @@
 | [2465-shifting-letters-ii](https://github.com/hashir-mohd/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/hashir-mohd/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/hashir-mohd/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/hashir-mohd/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/hashir-mohd/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/hashir-mohd/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hashir-mohd/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -194,6 +195,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/hashir-mohd/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/hashir-mohd/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/hashir-mohd/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3776-find-minimum-cost-to-remove-array-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3909-minimum-increments-to-equalize-leaf-paths](https://github.com/hashir-mohd/Leetcode/tree/master/3909-minimum-increments-to-equalize-leaf-paths) |
 ## Math
@@ -371,6 +373,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/hashir-mohd/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/hashir-mohd/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/hashir-mohd/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hashir-mohd/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/hashir-mohd/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hashir-mohd/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -728,6 +731,7 @@
 | [0089-gray-code](https://github.com/hashir-mohd/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/hashir-mohd/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Topological Sort
 |  |
 | ------- |
