@@ -160,6 +160,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/hashir-mohd/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/hashir-mohd/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/hashir-mohd/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/hashir-mohd/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-zero-array-transformation-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/hashir-mohd/Leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -222,6 +223,7 @@
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/hashir-mohd/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/hashir-mohd/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/hashir-mohd/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/hashir-mohd/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/hashir-mohd/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3878-maximize-count-of-distinct-primes-after-split](https://github.com/hashir-mohd/Leetcode/tree/master/3878-maximize-count-of-distinct-primes-after-split) |
 ## Binary Search
@@ -262,6 +264,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/hashir-mohd/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/hashir-mohd/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/hashir-mohd/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/hashir-mohd/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/hashir-mohd/Leetcode/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/hashir-mohd/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 | [3876-transform-array-to-all-equal-elements](https://github.com/hashir-mohd/Leetcode/tree/master/3876-transform-array-to-all-equal-elements) |
@@ -755,6 +758,7 @@
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/hashir-mohd/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3607-minimum-division-operations-to-make-array-non-decreasing](https://github.com/hashir-mohd/Leetcode/tree/master/3607-minimum-division-operations-to-make-array-non-decreasing) |
 | [3878-maximize-count-of-distinct-primes-after-split](https://github.com/hashir-mohd/Leetcode/tree/master/3878-maximize-count-of-distinct-primes-after-split) |
 ## Combinatorics
 |  |
