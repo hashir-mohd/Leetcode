@@ -31,7 +31,7 @@ public:
                     if( spf[nums[i]]==nums[i]) {
                         return -1;
                     }
-                    nums[i]/=(nums[i]/spf[nums[i]]);
+                    nums[i]=spf[nums[i]];
                     count++;
                 }
             }
