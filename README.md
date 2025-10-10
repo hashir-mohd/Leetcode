@@ -120,6 +120,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2104-operations-on-tree](https://github.com/hashir-mohd/Leetcode/tree/master/2104-operations-on-tree) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2118-maximum-earnings-from-taxi](https://github.com/hashir-mohd/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/hashir-mohd/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/hashir-mohd/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/hashir-mohd/Leetcode/tree/master/2145-grid-game) |
@@ -196,6 +197,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/hashir-mohd/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/hashir-mohd/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hashir-mohd/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2118-maximum-earnings-from-taxi](https://github.com/hashir-mohd/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2262-solving-questions-with-brainpower](https://github.com/hashir-mohd/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/hashir-mohd/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/hashir-mohd/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
@@ -235,6 +237,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/hashir-mohd/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hashir-mohd/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2118-maximum-earnings-from-taxi](https://github.com/hashir-mohd/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2665-minimum-time-to-repair-cars](https://github.com/hashir-mohd/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/hashir-mohd/Leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -309,6 +312,7 @@
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/hashir-mohd/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2118-maximum-earnings-from-taxi](https://github.com/hashir-mohd/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/hashir-mohd/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/hashir-mohd/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hashir-mohd/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -372,6 +376,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hashir-mohd/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2104-operations-on-tree](https://github.com/hashir-mohd/Leetcode/tree/master/2104-operations-on-tree) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2118-maximum-earnings-from-taxi](https://github.com/hashir-mohd/Leetcode/tree/master/2118-maximum-earnings-from-taxi) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/hashir-mohd/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/hashir-mohd/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
