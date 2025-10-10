@@ -47,6 +47,7 @@
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/hashir-mohd/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/hashir-mohd/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hashir-mohd/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hashir-mohd/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -111,6 +112,7 @@
 | [1524-string-matching-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hashir-mohd/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/hashir-mohd/Leetcode/tree/master/1656-count-good-triplets) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/hashir-mohd/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/hashir-mohd/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1876-map-of-highest-peak](https://github.com/hashir-mohd/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/hashir-mohd/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -251,6 +253,7 @@
 | [1303-minimum-moves-to-reach-target-score](https://github.com/hashir-mohd/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1502-construct-k-palindrome-strings](https://github.com/hashir-mohd/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/hashir-mohd/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/hashir-mohd/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/hashir-mohd/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -303,6 +306,7 @@
 | [0621-task-scheduler](https://github.com/hashir-mohd/Leetcode/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/hashir-mohd/Leetcode/tree/master/0721-accounts-merge) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/hashir-mohd/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1695-maximum-sum-obtained-of-any-permutation](https://github.com/hashir-mohd/Leetcode/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/hashir-mohd/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2117-find-original-array-from-doubled-array](https://github.com/hashir-mohd/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/hashir-mohd/Leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
