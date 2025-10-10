@@ -19,16 +19,8 @@ public:
             
         }
         for(int i=0;i<n;i++) {
-            cout<<diff[i]<<" ";
-        }
-        cout<<endl;
-        for(int i=0;i<n;i++) {
             diff[i]+=(i>0?diff[i-1]:0);
         }
-        for(int i=0;i<n;i++) {
-            cout<<diff[i]<<" ";
-        }
-        cout<<endl;
         vector<int> overlaps(n);
         sort(nums.begin(),nums.end());
         sort(diff.begin(),diff.end());
