@@ -132,6 +132,7 @@
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/hashir-mohd/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2318-maximum-points-in-an-archery-competition](https://github.com/hashir-mohd/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/hashir-mohd/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/hashir-mohd/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/hashir-mohd/Leetcode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -410,6 +411,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/hashir-mohd/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/hashir-mohd/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2318-maximum-points-in-an-archery-competition](https://github.com/hashir-mohd/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2478-longest-nice-subarray](https://github.com/hashir-mohd/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/hashir-mohd/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/hashir-mohd/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -743,6 +745,7 @@
 | [0089-gray-code](https://github.com/hashir-mohd/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/hashir-mohd/Leetcode/tree/master/0090-subsets-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2318-maximum-points-in-an-archery-competition](https://github.com/hashir-mohd/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/hashir-mohd/Leetcode/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Topological Sort
 |  |
@@ -781,6 +784,7 @@
 | ------- |
 | [1656-count-good-triplets](https://github.com/hashir-mohd/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/hashir-mohd/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2318-maximum-points-in-an-archery-competition](https://github.com/hashir-mohd/Leetcode/tree/master/2318-maximum-points-in-an-archery-competition) |
 | [2998-count-symmetric-integers](https://github.com/hashir-mohd/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/hashir-mohd/Leetcode/tree/master/3199-distribute-candies-among-children-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/hashir-mohd/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
